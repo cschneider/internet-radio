@@ -8,3 +8,7 @@ Internet radio and alarm clock.
 - s2audio
 - Qwiic rotary encoder
 - I2C display
+
+## Resources
+
+- [ESP32 audio](https://www.youtube.com/watch?v=a936wNgtcRA)
