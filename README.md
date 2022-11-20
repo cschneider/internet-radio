@@ -10,6 +10,8 @@ Internet radio and alarm clock.
 - [Rotary encoder KY-40](https://eckstein-shop.de/QITAPotentiometerDrehreglerKY-040RotaryEncoderModulforArduino) 2 EUR
 - [Qwiic rotary encoder breakout](https://eckstein-shop.de/Adafruit-I2C-QT-Rotary-Encoder) 8 EUR
 - [20x4 I2C display](https://www.az-delivery.de/collections/more-products-2/products/hd44780-2004-lcd-display-bundle-4x20-zeichen-mit-i2c-schnittstelle) 10 EUR
+- [Speaker](https://eckstein-shop.de/AdafruitSpeaker-322Diameter-4Ohm3WattforAudioProject) 3 EUR
+- Case 6 EUR
 
 ## Resources
 
